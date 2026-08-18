@@ -60,15 +60,10 @@ I'm a mechatronics engineer and researcher working at the intersection of **robo
 
 `ROS / ROS 2` · `Gazebo` · `Webots` · `Unity3D` · `Python` · `MATLAB` · `OpenCV` · `YOLO` · `CNNs` · `SLAM` · `LIDAR` · `Particle Swarm Optimization`
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seenusaravanann&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seenusaravanann&layout=compact&hide_border=true)
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ms-n-seenu-saravanan-1158681b4/)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qnfCN3cAAAAJ)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0373-2357)
 [![Institution](https://img.shields.io/badge/-HITS-002147?style=flat-square&logo=googlecampus&logoColor=white)](https://hindustanuniv.ac.in/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nseenu@hindustanuniv.ac.in)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seenusaravanann@gmail.com)
