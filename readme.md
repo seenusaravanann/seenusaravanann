@@ -63,9 +63,8 @@ I'm a mechatronics engineer and researcher working at the intersection of **robo
 
 ## 📈 GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username to activate these -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seenusaravanann&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seenusaravanann&layout=compact&hide_border=true)
 
 ## 📫 Connect
 
