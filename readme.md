@@ -4,10 +4,10 @@
 Centre for Automation and Robotics · Hindustan Institute of Technology and Science (HITS), Chennai, India
 
 Researching autonomous multi-robot systems, humanoid robotics, computer vision, and AI-driven automation for disaster response and industrial applications.
-
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0373--2357-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0373-2357)
+[![Portfolio](https://img.shields.io/badge/ORCID-0000--0003--0373--2357-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://seenusaravanann.github.io/Seenu.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qnfCN3cAAAAJ)
 [![Scopus](https://img.shields.io/badge/Scopus-Author_Profile-FF6F00?style=flat-square&logo=elsevier&logoColor=white)](https://www.scopus.com/pages/authors/57215918482)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0373--2357-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0373-2357)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ms-n-seenu-saravanan-1158681b4/)
 
 ---
