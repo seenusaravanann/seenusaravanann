@@ -9,7 +9,6 @@ Researching autonomous multi-robot systems, humanoid robotics, computer vision, 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qnfCN3cAAAAJ)
 [![Scopus](https://img.shields.io/badge/Scopus-Author_Profile-FF6F00?style=flat-square&logo=elsevier&logoColor=white)](https://www.scopus.com/pages/authors/57215918482)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ms-n-seenu-saravanan-1158681b4/)
-[![Email](https://img.shields.io/badge/Email-nseenu%40hindustanuniv.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nseenu@hindustanuniv.ac.in)
 
 ---
 
